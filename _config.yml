@@ -1,4 +1,4 @@
 name: CCY
 markdown: kramdown
-theme:minimal
+theme: minimal
 permalink: /blog/:year/:month/:day/:title
