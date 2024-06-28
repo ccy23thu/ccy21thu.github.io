@@ -2,8 +2,6 @@ name: CCY
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-permalink:   /:categories/:title
-
 # Links to include in top navigation
 # For external links add external: true
 links:
