@@ -274,7 +274,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 .top-navigation ul li:hover div {
     height: 130px;
     border: 1px solid rgb(189, 189, 189);
-    z-index: 10;/* NEW */
+    /*z-index: 10;*//* NEW */
 }
 .top-navigation ul li div ul {
     width: 100%;
@@ -285,10 +285,11 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
     width: 74px;
     height: 30px;
     line-height: 30px;
+    text-align: center;/* NEW */
 }
 .top-navigation ul li div ul li a{
     display: block;     /*填充li*/
-    color: #0173DD;
+    color:#333332; 
 }
 /* 以上为更新的导航栏下拉（二级）列表 */
 
