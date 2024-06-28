@@ -257,7 +257,7 @@ html{background-color:#ffffff;font-family:'PT Serif',serif;font-color:#333332;fo
 .top-navigation-current{text-decoration: overline;}
 /* 以下为更新的导航栏下拉（二级）列表 */
 .top-navigation ul li div {
-    overflow: hidden;/*元素溢出裁剪必须要用在li下的div中*/
+    overflow-y: auto;/*元素溢出裁剪必须要用在li下的div中,overflow: hidden*/  /*Update: 设置滚动条*/
     position: absolute;/* NEW */
     width: 80px;
     height: 0;
