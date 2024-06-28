@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/acgn/index.html
+permalink: /blog/acgn/index.html
 title: ACGN相关 | ACGN Blogs
 ---
 
