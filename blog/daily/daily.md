@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/daily/index.html
+permalink: /blog/daily/index.html
 title: 日常博客 | Daily Blogs
 ---
-
-<h2>2024年</h2>
+<h1>日常博客 | Daily Blogs</h1>
+<h3>2024年</h3>
