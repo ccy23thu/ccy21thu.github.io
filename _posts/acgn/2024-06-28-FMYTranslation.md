@@ -11,8 +11,8 @@ categories: acgn
 > 作词：HIROMI 作曲：Giga 编曲：Giga
 > [翻译来源](https://www.bilibili.com/video/BV1Kr421u7jd)
 
-Now I’m ready, I’m ready to goNow I'm ready, I'm ready to go
-花が咲く時が来たんだ花朵绽放的时候到了
+Now I’m ready, I’m ready to go | Now I'm ready, I'm ready to go
+花が咲く時が来たんだ | 花朵绽放的时候到了
 Are you ready? わかるでしょAre you ready? 你是否明白
 やってみせる Make it through让我演给你看 Make it through
 ほら そんな ソワソワしてたら看啊 如果你如此焦躁不安的话
