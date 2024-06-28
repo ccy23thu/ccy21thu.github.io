@@ -1,4 +1,6 @@
 name: CCY
+
+url: https://ccy2003.com
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
