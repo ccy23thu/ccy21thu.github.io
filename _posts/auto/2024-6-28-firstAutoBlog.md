@@ -1,7 +1,7 @@
 ---
 layout: blog
-permalink: /blogs/index.html
 title: FirstAutoBlog
+date: 2024-6-28
 categories: auto
 ---
 
