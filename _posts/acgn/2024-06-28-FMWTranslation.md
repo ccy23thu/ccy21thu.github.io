@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Fighting My Way Translation
 date: 2024-6-28
 categories: acgn
