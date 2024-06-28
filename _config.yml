@@ -9,6 +9,11 @@ permalink: /blog/:year/:month/:day/:title
 links:
   - title: About Me
     url: /
+    sublinks:
+      - title: sub 1
+        url: /sub_1
+      - title: sub 2
+        url: /sub_2
   - title: Publications
     url: /publications/
   - title: Awards
