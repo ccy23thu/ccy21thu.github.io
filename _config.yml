@@ -1,4 +1,8 @@
-name: CCY
+owner:
+  name: CCY
+  avatar: 
+  email: cuicy21@mails.tsinghua.edu.cn
+  github: ccy23thu
 
 url: https://ccy23thu.github.io
 markdown: kramdown
