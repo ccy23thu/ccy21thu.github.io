@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 permalink: /blog/auto/index.html
 title: 自动化 | Blogs about Automation
 ---
